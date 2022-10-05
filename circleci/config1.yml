@@ -1,5 +1,5 @@
 version: 2.1
-MY_ENV_VAR: eslam-circleci
+
 workflows:
   test-env-vars:
     jobs:
