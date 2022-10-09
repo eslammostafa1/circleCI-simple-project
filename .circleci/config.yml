@@ -20,7 +20,7 @@ jobs:
     steps:
       - print_pipeline_id
       - sayhello:
-          to: <<eslam>>
+          to: "eslam"
 
 workflows:
   my_workflow:
